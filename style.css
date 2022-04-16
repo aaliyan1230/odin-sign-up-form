@@ -1,6 +1,6 @@
 :root{
     --color: #90EE90;
-    --txt: rgb(185, 185, 185);
+    --txt: rgb(240, 243, 240);
 }
 
 *{
@@ -102,7 +102,7 @@ h1{
     width: 40%;
     font-size: 0.7rem;
     text-transform: uppercase;
-    opacity: 50%;
+    font-weight: 500;
 }
 
 .form-title{
@@ -113,7 +113,7 @@ h1{
 
 input{
     background-color: rgba(5, 61, 17, 0.7);
-    border: 1px solid rgb(77, 77, 77);
+    border: 1px solid rgb(14, 22, 14);
     border-radius: 3px;
 }
 
